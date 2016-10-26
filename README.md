@@ -1,2 +1,10 @@
 # hello-world
-Just another repository
+Just yet another repository
+
+## About me 
+
+I like creative coding, art, and synthesizers.
+
+```python
+print('hello world')
+```
